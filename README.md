@@ -10,4 +10,4 @@ https://bertt.github.io/giro3d_samples/instances_amsterdam/demo/
 
 https://bertt.github.io/giro3d_samples/instances_trees
 
-<img width="680" height="350" alt="image" src="https://github.com/user-attachments/assets/314374a6-ffaf-4299-9a83-dc5f9c45ffd7" />
+<img width="1916" height="1067" alt="image" src="https://github.com/user-attachments/assets/9a365c1e-47df-4e90-a247-1ecd502e4184" />
