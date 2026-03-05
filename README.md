@@ -11,3 +11,16 @@ https://bertt.github.io/giro3d_samples/instances_amsterdam/demo/
 https://bertt.github.io/giro3d_samples/instances_trees
 
 <img width="1916" height="1067" alt="image" src="https://github.com/user-attachments/assets/9a365c1e-47df-4e90-a247-1ecd502e4184" />
+
+3] Utrecht trees
+
+https://bertt.github.io/giro3d_samples/utrecht_trees
+
+<img width="1033" height="504" alt="image" src="https://github.com/user-attachments/assets/1eba2182-b729-42ca-9c1d-af3210e44d0c" />
+
+4] Utrecht buildings
+
+https://bertt.github.io/giro3d_samples/utrecht_buildings
+
+<img width="1296" height="576" alt="image" src="https://github.com/user-attachments/assets/f9dc0343-183b-4703-956e-6ee753d43a39" />
+
