@@ -24,3 +24,12 @@ https://bertt.github.io/giro3d_samples/utrecht_buildings
 
 <img width="1296" height="576" alt="image" src="https://github.com/user-attachments/assets/f9dc0343-183b-4703-956e-6ee753d43a39" />
 
+5] Sibbe custom terrain
+
+https://bertt.github.io/giro3d_samples/sibbe
+
+<img width="1908" height="976" alt="image" src="https://github.com/user-attachments/assets/8fe7d928-f594-499a-980c-e2a5e1f76b13" />
+
+
+
+
